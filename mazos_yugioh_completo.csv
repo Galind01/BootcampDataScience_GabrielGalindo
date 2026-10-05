@@ -1,0 +1,232 @@
+Arquetipo,ID_Carta,Nombre_Carta,Tipo,Raza,Atributo,ATK,DEF
+-Eyes Dragon,70335319,All-Eyes Phantom Dragon,Pendulum Effect Monster,Dragon,LIGHT,3000,2500
+-Eyes Dragon,48348921,Number C62: Neo Galaxy-Eyes Prime Photon Dragon,XYZ Monster,Dragon,LIGHT,4000,3000
+-Eyes Dragon,14105623,Odd-Eyes Arc Pendulum Dragon,Pendulum Normal Monster,Dragon,DARK,2700,2000
+-Eyes Dragon,67754901,Odd-Eyes Mirage Dragon,Pendulum Effect Monster,Dragon,DARK,1200,600
+-Eyes Dragon,16178682,Odd-Eyes Pendulum Dragon,Pendulum Effect Monster,Dragon,DARK,2500,2000
+-Eyes Dragon,21250202,Odd-Eyes Persona Dragon,Pendulum Effect Monster,Dragon,DARK,1200,2400
+-Eyes Dragon,21770839,Odd-Eyes Phantasma Dragon,Pendulum Effect Monster,Dragon,DARK,3000,2500
+-Eyes Dragon,93149655,Odd-Eyes Phantom Dragon,Pendulum Effect Monster,Dragon,DARK,2500,2000
+-Eyes Dragon,86238081,Odd-Eyes Raging Dragon,XYZ Pendulum Effect Monster,Dragon,DARK,3000,2500
+-Eyes Dragon,45627618,Odd-Eyes Rebellion Dragon,XYZ Pendulum Effect Monster,Dragon,DARK,3000,2500
+-Eyes Dragon,98452268,Odd-Eyes Rebellion Dragon Overlord,XYZ Pendulum Effect Monster,Dragon,DARK,3000,2500
+-Eyes Dragon,16306932,Odd-Eyes Revolution Dragon,Pendulum Effect Monster,Dragon,LIGHT,-1,-1
+-Eyes Dragon,45014450,Odd-Eyes Venom Dragon,Pendulum Effect Fusion Monster,Dragon,DARK,3300,2500
+-Eyes Dragon,58071334,Snake-Eyes Doomed Dragon,Fusion Monster,Dragon,FIRE,3000,2500
+-Eyes Dragon,79415624,Snake-Eyes Vengeance Dragon,Synchro Monster,Dragon,FIRE,3000,2500
+"""C""",15721123,"Confronting the ""C""",Effect Monster,Insect,EARTH,1100,2500
+"""C""",87170768,"Contact ""C""",Effect Monster,Insect,EARTH,1500,2200
+"""C""",80978111,"Flying ""C""",Effect Monster,Insect,EARTH,700,700
+"""C""",23434538,"Maxx ""C""",Effect Monster,Insect,EARTH,500,200
+"""C""",46502744,"Retaliating ""C""",Effect Monster,Insect,EARTH,1400,1400
+"""C""",94081496,"Shiny Black ""C""",Effect Monster,Insect,EARTH,200,500
+"""C""",4148264,"Shiny Black ""C"" Squadder",Normal Monster,Insect,EARTH,2000,0
+"""C""",25137581,"Sneaky ""C""",Effect Monster,Insect,EARTH,1300,2500
+"""C""",77754169,"Super Armored Robot Armed Black Iron ""C""",Effect Monster,Insect,EARTH,2400,2000
+@Ignister,10493654,A.I. Contact,Spell Card,Normal,N/A,N/A,N/A
+@Ignister,59332125,A.I. Love Fusion,Spell Card,Normal,N/A,N/A,N/A
+@Ignister,77421977,A.I. Shadow,Trap Card,Continuous,N/A,N/A,N/A
+@Ignister,85327820,A.I.'s Ritual,Spell Card,Ritual,N/A,N/A,N/A
+@Ignister,22933016,A.I.dle Reborn,Spell Card,Quick-Play,N/A,N/A,N/A
+@Ignister,69381150,A.I.Q,Trap Card,Continuous,N/A,N/A,N/A
+@Ignister,15808381,Achichi @Ignister,Effect Monster,Cyberse,FIRE,800,800
+@Ignister,39138610,Allied Code Talker @Ignister,Link Monster,Cyberse,DARK,2300,
+@Ignister,30118811,Backup @Ignister,Tuner Monster,Cyberse,DARK,1200,800
+@Ignister,42429678,Bururu @Ignister,Tuner Monster,Cyberse,WIND,600,1000
+@Ignister,66192538,Danmari @Ignister,Effect Monster,Cyberse,DARK,2300,0
+@Ignister,74567889,Dark Infant @Ignister,Link Monster,Cyberse,DARK,500,
+@Ignister,97383507,Dark Templar @Ignister,Link Monster,Cyberse,DARK,2300,
+@Ignister,14146794,Donyoribo @Ignister,Effect Monster,Cyberse,DARK,300,0
+@Ignister,78751195,Doshin @Ignister,Effect Monster,Cyberse,EARTH,100,800
+@Ignister,88413677,Doyon @Ignister,Effect Monster,Cyberse,DARK,400,1600
+@Ignister,62111090,Earth Golem @Ignister,Fusion Monster,Cyberse,EARTH,2300,2000
+@Ignister,24882256,Fire Phoenix @Ignister,Link Monster,Cyberse,FIRE,2300,
+@Ignister,82257671,Gatchiri @Ignister,Effect Monster,Cyberse,EARTH,0,3000
+@Ignister,55762976,Gussari @Ignister,Effect Monster,Cyberse,EARTH,3000,3000
+@Ignister,41306080,Hiyari @Ignister,Effect Monster,Cyberse,WATER,300,400
+@Ignister,59054773,Ignister A.I.Land,Spell Card,Field,N/A,N/A,N/A
+@Ignister,66102515,Kurikurinku @Ignister,Effect Monster,Cyberse,DARK,300,200
+@Ignister,61399402,Light Dragon @Ignister,XYZ Monster,Cyberse,LIGHT,2300,1500
+@Ignister,61168637,Linkslayer @Ignister,Effect Monster,Cyberse,DARK,2000,600
+@Ignister,16020923,Pikari @Ignister,Effect Monster,Cyberse,LIGHT,1200,600
+@Ignister,86449372,TA.I. Strike,Spell Card,Quick-Play,N/A,N/A,N/A
+@Ignister,11738489,The Arrival Cyberse @Ignister,Link Monster,Cyberse,DARK,0,
+@Ignister,37061511,Water Leviathan @Ignister,Ritual Effect Monster,Cyberse,WATER,2300,2000
+@Ignister,98506199,Wind Pegasus @Ignister,Synchro Monster,Cyberse,WIND,2300,1500
+@Ignister,3723262,Wizard @Ignister,Effect Monster,Cyberse,DARK,1800,800
+/Assault Mode,46985799,Black Rose Dragon/Assault Mode,Effect Monster,Dragon,FIRE,2900,2300
+/Assault Mode,50604072,Crimson Blader/Assault Mode,Effect Monster,Warrior,FIRE,3300,3100
+/Assault Mode,23219323,Junk Warrior/Assault Mode,Effect Monster,Warrior,DARK,2800,1800
+/Assault Mode,82323997,Red Nova Dragon/Assault Mode,Effect Monster,Dragon,DARK,4000,3500
+/Assault Mode,61257789,Stardust Dragon/Assault Mode,Effect Monster,Dragon,WIND,3000,2500
+25th Anniversary Monsters,58931850,Dragon Master Lords,XYZ Monster,Dragon,DARK,5000,5000
+25th Anniversary Monsters,99217226,Paladins of Bonds and Unity,Synchro Monster,Spellcaster,LIGHT,2900,2900
+A-to-Z,75926389,A-to-Z Energy Load,Trap Card,Normal,N/A,N/A,N/A
+A-to-Z,70860415,X-Cross Cannon,Effect Monster,Machine,LIGHT,1800,1500
+A-to-Z,75748977,XYZ-Hyper Dragon Cannon,Fusion Monster,Machine,LIGHT,3000,2800
+A-to-Z,6355563,Y-Yare Head,Union Effect Monster,Machine,LIGHT,1500,1600
+A-to-Z,33744268,Z-Zillion Tank,Union Effect Monster,Machine,LIGHT,1500,1300
+A.I.,28645123,A.I. Challenge You,Trap Card,Continuous,N/A,N/A,N/A
+A.I.,79015062,A.I. Connect,Spell Card,Normal,N/A,N/A,N/A
+A.I.,6552971,A.I. Meet You,Spell Card,Normal,N/A,N/A,N/A
+A.I.,54374642,A.I.'s Show,Trap Card,Normal,N/A,N/A,N/A
+A.I.,28270534,FA.I.ghting Spirit,Spell Card,Normal,N/A,N/A,N/A
+A.I.,91509824,SA.I.dekick,Trap Card,Normal,N/A,N/A,N/A
+A.I.,32056070,You and A.I.,Spell Card,Continuous,N/A,N/A,N/A
+ABC,30012506,A-Assault Core,Union Effect Monster,Machine,LIGHT,1900,200
+ABC,65172015,A-to-Z-Dragon Buster Cannon,Fusion Monster,Machine,LIGHT,4000,4000
+ABC,1561110,ABC-Dragon Buster,Fusion Monster,Machine,LIGHT,3000,2800
+ABC,77411244,B-Buster Drake,Union Effect Monster,Machine,LIGHT,1500,1800
+ABC,3405259,C-Crush Wyvern,Union Effect Monster,Machine,LIGHT,1200,2000
+ABC,99249638,Union Driver,Union Effect Monster,Machine,LIGHT,2100,1000
+ABC,51638941,V-Tiger Jet,Normal Monster,Machine,LIGHT,1600,1800
+ABC,58859575,VW-Tiger Catapult,Fusion Monster,Machine,LIGHT,2000,2100
+ABC,84243274,VWXYZ-Dragon Catapult Cannon,Fusion Monster,Machine,LIGHT,3000,2800
+ABC,96300057,W-Wing Catapult,Union Effect Monster,Machine,LIGHT,1300,1500
+ABC,62651957,X-Head Cannon,Normal Monster,Machine,LIGHT,1800,1500
+ABC,2111707,XY-Dragon Cannon,Fusion Monster,Machine,LIGHT,2200,1900
+ABC,95471006,XYZ Combine,Spell Card,Continuous,N/A,N/A,N/A
+ABC,21723081,XYZ Hyper Cannon,Trap Card,Continuous,N/A,N/A,N/A
+ABC,91998119,XYZ-Dragon Cannon,Fusion Monster,Machine,LIGHT,2800,2600
+ABC,99724761,XZ-Tank Cannon,Fusion Monster,Machine,LIGHT,2400,2100
+ABC,65622692,Y-Dragon Head,Union Effect Monster,Machine,LIGHT,1500,1600
+ABC,25119460,YZ-Tank Dragon,Fusion Monster,Machine,LIGHT,2100,2200
+ABC,64500000,Z-Metal Tank,Union Effect Monster,Machine,LIGHT,1500,1300
+Abyss Actor,15308295,Abyss Actor - Comic Relief,Pendulum Effect Monster,Fiend,DARK,1000,2000
+Abyss Actor,44179224,Abyss Actor - Curtain Raiser,Pendulum Effect Monster,Fiend,DARK,1100,1000
+Abyss Actor,52240819,Abyss Actor - Evil Heel,Pendulum Effect Monster,Fiend,DARK,3000,2000
+Abyss Actor,88412339,Abyss Actor - Extras,Pendulum Effect Monster,Fiend,DARK,100,100
+Abyss Actor,99634927,Abyss Actor - Funky Comedian,Pendulum Effect Monster,Fiend,DARK,300,200
+Abyss Actor,2368215,Abyss Actor - Hyper Director,Link Monster,Fiend,DARK,800,
+Abyss Actor,24907044,Abyss Actor - Leading Lady,Pendulum Effect Monster,Fiend,DARK,1500,1000
+Abyss Actor,65477143,Abyss Actor - Liberty Dramatist,Pendulum Effect Monster,Fiend,DARK,1500,1500
+Abyss Actor,78310590,Abyss Actor - Mellow Madonna,Pendulum Effect Monster,Fiend,DARK,1800,2500
+Abyss Actor,51028231,Abyss Actor - Sassy Rookie,Pendulum Effect Monster,Fiend,DARK,1700,1000
+Abyss Actor,47404795,Abyss Actor - Super Producer,Link Monster,Fiend,DARK,1600,
+Abyss Actor,25629622,Abyss Actor - Superstar,Pendulum Effect Monster,Fiend,DARK,2500,1800
+Abyss Actor,39024589,Abyss Actor - Trendy Understudy,Pendulum Effect Monster,Fiend,DARK,700,700
+Abyss Actor,7279373,Abyss Actor - Twinkle Little Star,Pendulum Effect Monster,Fiend,DARK,1000,1000
+Abyss Actor,51391183,Abyss Actor - Wild Hope,Pendulum Effect Monster,Fiend,DARK,1600,1200
+Abyss Actor,59057953,Abyss Actors Back Stage,Trap Card,Normal,N/A,N/A,N/A
+Abyss Actor,4682617,Abyss Actors' Curtain Call,Trap Card,Normal,N/A,N/A,N/A
+Abyss Actor,6004133,Abyss Actors' Dress Rehearsal,Spell Card,Normal,N/A,N/A,N/A
+Abyss Actor,77297908,Abyss Playhouse - Fantastic Theater,Spell Card,Field,N/A,N/A,N/A
+Abyss Actor,86578200,Abyss Prop - Wild Wagon,Spell Card,Continuous,N/A,N/A,N/A
+Abyss Actor,70564929,Abyss Script - Abysstainment,Spell Card,Continuous,N/A,N/A,N/A
+Abyss Actor,87390798,Abyss Script - Fantasy Magic,Spell Card,Normal,N/A,N/A,N/A
+Abyss Actor,50179591,Abyss Script - Fire Dragon's Lair,Spell Card,Normal,N/A,N/A,N/A
+Abyss Actor,23784496,Abyss Script - Opening Ceremony,Spell Card,Normal,N/A,N/A,N/A
+Abyss Actor,13662809,Abyss Script - Rise of the Abyss King,Spell Card,Normal,N/A,N/A,N/A
+Abyss Actor,41803903,Abyss Script - Romantic Terror,Spell Card,Quick-Play,N/A,N/A,N/A
+Abyss Script,33503878,Abyss Script - Dramatic Story,Spell Card,Normal,N/A,N/A,N/A
+Abyss-,61496006,Abyss Shark,Effect Monster,Fish,WATER,1200,700
+Abyss-,100460003,Abyss Vagrada the Abyssal Cubic Lord,Fusion Monster,Fiend,WATER,0,0
+Abyss-,63941169,Abyss-steam,Trap Card,Normal,N/A,N/A,N/A
+Abyss-,81878201,Abyss-sting Triaina,Spell Card,Equip,N/A,N/A,N/A
+Abyss-,17080584,"Abyssrhine, the Atlantean Spirit",Effect Monster,Aqua,WATER,1600,1600
+Abyss-,9453320,"Abysstrite, the Atlantean Spirit",XYZ Monster,Sea Serpent,WATER,2100,2800
+Abyss-,69385019,Mermail King - Neptabyss,Link Monster,Sea Serpent,WATER,2300,
+Abyss-,46518210,"Nephilabyss, the Ogdoadic Overlord",Effect Monster,Reptile,DARK,2200,3100
+Abyss-,60517697,"Poseidra Abyss, the Atlantean Dragon Lord",XYZ Monster,Sea Serpent,WATER,3000,1800
+Adamancipator,11302671,Adamancipator Analyzer,Tuner Monster,Rock,EARTH,1500,700
+Adamancipator,24925387,Adamancipator Conductor,Tuner Monster,Rock,EARTH,1400,1100
+Adamancipator,10286023,Adamancipator Crystal - Dragite,Effect Monster,Rock,WATER,0,2200
+Adamancipator,47897376,Adamancipator Crystal - Leonite,Effect Monster,Rock,FIRE,0,2200
+Adamancipator,74891384,Adamancipator Crystal - Raptite,Effect Monster,Rock,WIND,0,2200
+Adamancipator,51420096,Adamancipator Crystal - Tiamite,Effect Monster,Rock,DARK,0,2200
+Adamancipator,99927991,Adamancipator Friends,Spell Card,Normal,N/A,N/A,N/A
+Adamancipator,46552140,Adamancipator Laputite,Spell Card,Field,N/A,N/A,N/A
+Adamancipator,41458361,Adamancipator Luminous,Link Monster,Rock,LIGHT,1800,
+Adamancipator,30068809,Adamancipator Mates,Spell Card,Normal,N/A,N/A,N/A
+Adamancipator,9341993,Adamancipator Relief,Trap Card,Normal,N/A,N/A,N/A
+Adamancipator,85914562,Adamancipator Researcher,Tuner Monster,Rock,EARTH,100,2100
+Adamancipator,45730592,Adamancipator Resonance,Trap Card,Counter,N/A,N/A,N/A
+Adamancipator,9464441,Adamancipator Risen - Dragite,Synchro Monster,Rock,WATER,3000,2200
+Adamancipator,47674738,Adamancipator Risen - Leonite,Synchro Monster,Rock,FIRE,2400,2200
+Adamancipator,73079836,Adamancipator Risen - Raptite,Synchro Monster,Rock,WIND,2200,2800
+Adamancipator,89913287,Adamancipator Risen - Tiamite,Synchro Monster,Rock,DARK,3300,2200
+Adamancipator,48519867,Adamancipator Seeker,Tuner Monster,Rock,EARTH,1200,1000
+Adamancipator,72957245,Adamancipator Signs,Spell Card,Normal,N/A,N/A,N/A
+Advanced Crystal Beast,18847598,Advanced Crystal Beast Amber Mammoth,Effect Monster,Beast,EARTH,1700,1600
+Advanced Crystal Beast,19963185,Advanced Crystal Beast Amethyst Cat,Effect Monster,Beast,EARTH,1200,400
+Advanced Crystal Beast,45236142,Advanced Crystal Beast Cobalt Eagle,Effect Monster,Winged Beast,WIND,1400,800
+Advanced Crystal Beast,46358784,Advanced Crystal Beast Emerald Tortoise,Effect Monster,Aqua,WATER,600,2000
+Advanced Crystal Beast,83575471,Advanced Crystal Beast Ruby Carbuncle,Effect Monster,Fairy,LIGHT,300,300
+Advanced Crystal Beast,71620241,Advanced Crystal Beast Sapphire Pegasus,Effect Monster,Beast,WIND,1800,1200
+Advanced Crystal Beast,72843899,Advanced Crystal Beast Topaz Tiger,Effect Monster,Beast,EARTH,1600,1000
+Adventurer,64018647,Breath of Resurrection,Trap Card,Normal,N/A,N/A,N/A
+Adventurer,54092240,Celestial Apparatus Tesea,Effect Monster,Fairy,EARTH,1000,1000
+Adventurer,34690953,Curse of Aramatir,Spell Card,Continuous,N/A,N/A,N/A
+Adventurer,65952776,"Dunnell, the Noble Arms of Light",Spell Card,Equip,N/A,N/A,N/A
+Adventurer,91228233,Forest of Lost Flowers,Spell Card,Field,N/A,N/A,N/A
+Adventurer,42198835,Illegal Knight,Effect Monster,Fiend,DARK,2000,2000
+Adventurer,66078354,Magicore Warrior of the Relics,Effect Monster,Warrior,FIRE,2300,1000
+Adventurer,3285551,Rite of Aramesir,Spell Card,Normal,N/A,N/A,N/A
+Adventurer,92341815,Starlit Papillon,Spell Card,Equip,N/A,N/A,N/A
+Adventurer,27623932,Thunder Discharge,Trap Card,Normal,N/A,N/A,N/A
+Adventurer,2563463,Wandering Gryphon Rider,Effect Monster,Winged Beast,WIND,2000,2800
+Adventurer,30680659,Water Enchantress of the Temple,Effect Monster,Spellcaster,WATER,1500,1200
+Adventurer,64230128,Zaralaam the Dark Palace,Spell Card,Field,N/A,N/A,N/A
+Adventurer Token,38745520,"Dracoback, the Rideable Dragon",Spell Card,Equip,N/A,N/A,N/A
+Adventurer Token,39568067,Fateful Adventure,Spell Card,Continuous,N/A,N/A,N/A
+Aesir,89914395,Divine Relic Mjollnir,Trap Card,Normal,N/A,N/A,N/A
+Aesir,91697229,Fenrir the Nordic Wolf,Effect Monster,Beast,DARK,4000,4000
+Aesir,91148083,Gotterdammerung,Spell Card,Normal,N/A,N/A,N/A
+Aesir,64203620,Jormungardr the Nordic Serpent,Effect Monster,Dragon,DARK,3000,3000
+Aesir,67098114,"Loki, Lord of the Aesir",Synchro Monster,Spellcaster,DARK,3300,3000
+Aesir,28643791,March Towards Ragnarok,Spell Card,Quick-Play,N/A,N/A,N/A
+Aesir,55154048,Nordic Relic Draupnir,Spell Card,Equip,N/A,N/A,N/A
+Aesir,15286412,Nordic Relic Gungnir,Trap Card,Normal,N/A,N/A,N/A
+Aesir,86827882,Nordic Relic Megingjord,Trap Card,Normal,N/A,N/A,N/A
+Aesir,93483212,"Odin, Father of the Aesir",Synchro Monster,Fairy,LIGHT,4000,3500
+Aesir,88069166,Odin's Eye,Trap Card,Continuous,N/A,N/A,N/A
+Aesir,30604579,"Thor, Lord of the Aesir",Synchro Monster,Beast-Warrior,EARTH,3500,2800
+Aether,56804361,"Aether, the Empowering Dragon",Effect Monster,Dragon,LIGHT,2300,1600
+Aether,54250060,Empowerment,Spell Card,Field,N/A,N/A,N/A
+Albaz Dragon,93053159,Alba System Dogmatikalamity,Fusion Monster,Dragon,DARK,4500,2500
+Albaz Dragon,38811586,Albion the Sanctifire Dragon,Fusion Monster,Dragon,LIGHT,3000,2500
+Albaz Dragon,70534340,Lubellion the Searing Dragon,Fusion Monster,Dragon,LIGHT,2500,3000
+Albaz Dragon,44146295,Mirrorjade the Iceblade Dragon,Fusion Monster,Wyrm,DARK,3000,2500
+Albaz Dragon,51409648,Rindbrumm the Striking Dragon,Fusion Monster,Winged Beast,DARK,2500,2000
+Albaz Dragon,76666602,The Dragon that Devours the Dogma,Fusion Monster,Beast,DARK,3000,2500
+Aleister,57294268,Aleister the Reminiscent,Effect Monster,Spellcaster,DARK,1800,1000
+Alien,34541863,"""A"" Cell Breeding Device",Spell Card,Continuous,N/A,N/A,N/A
+Alien,64163367,"""A"" Cell Incubator",Spell Card,Continuous,N/A,N/A,N/A
+Alien,91231901,"""A"" Cell Recombination Device",Spell Card,Quick-Play,N/A,N/A,N/A
+Alien,73262676,"""A"" Cell Scatter Burst",Spell Card,Quick-Play,N/A,N/A,N/A
+Alien,652362,Alien Ammonite,Tuner Monster,Reptile,LIGHT,500,200
+Alien,17490535,Alien Brain,Trap Card,Normal,N/A,N/A,N/A
+Alien,15475415,Alien Dog,Effect Monster,Reptile,LIGHT,1500,1000
+Alien,62437709,Alien Grey,Flip Effect Monster,Reptile,LIGHT,300,800
+Alien,62315111,Alien Hunter,Effect Monster,Reptile,WATER,1600,800
+Alien,38468214,Alien Hypno,Gemini Monster,Reptile,WATER,1600,700
+Alien,76573247,Alien Infiltrator,Effect Monster,Reptile,EARTH,800,500
+Alien,64160836,Alien Kid,Effect Monster,Reptile,LIGHT,1600,700
+Alien,99532708,Alien Mars,Effect Monster,Reptile,FIRE,1000,1000
+Alien,24104865,Alien Mother,Effect Monster,Reptile,DARK,2300,1500
+Alien,63253763,Alien Overlord,Effect Monster,Reptile,DARK,2200,1600
+Alien,58012107,Alien Psychic,Effect Monster,Reptile,DARK,200,100
+Alien,97127906,Alien Shocktrooper,Normal Monster,Reptile,EARTH,1900,800
+Alien,74974229,Alien Shocktrooper M-Frame,Link Monster,Reptile,LIGHT,1900,
+Alien,25920413,Alien Skull,Effect Monster,Reptile,WIND,1600,1800
+Alien,58066722,Alien Stealthbuster,Effect Monster,Reptile,LIGHT,1700,1500
+Alien,91070115,Alien Telepath,Effect Monster,Reptile,FIRE,1600,1000
+Alien,98719226,Alien Warrior,Effect Monster,Reptile,EARTH,1800,1000
+Alien,59258334,Brainwashing Beam,Trap Card,Continuous,N/A,N/A,N/A
+Alien,84491298,Cell Explosion Virus,Trap Card,Normal,N/A,N/A,N/A
+Alien,99342953,Code A Ancient Ruins,Spell Card,Continuous,N/A,N/A,N/A
+Alien,2561846,"Corruption Cell ""A""",Spell Card,Normal,N/A,N/A,N/A
+Alien,68319538,Cosmic Fortress Gol'gar,Synchro Monster,Reptile,LIGHT,2600,1800
+Alien,51192573,Cosmic Horror Gangi'el,Effect Monster,Reptile,LIGHT,2600,2000
+Alien,1487805,Cosmic Slicer Zer'oll,Link Monster,Reptile,LIGHT,2600,
+Alien,24082387,Crop Circles,Trap Card,Normal,N/A,N/A,N/A
+Alien,20985997,"Detonator Circle ""A""",Trap Card,Normal,N/A,N/A,N/A
+Alien,97697678,Flying Saucer Muusik'i,Effect Monster,Machine,LIGHT,1000,2000
+Alien,71768839,I.A.S. -Invasive Alien Species-,Effect Monster,Reptile,LIGHT,1600,0
+Alien,57384901,Interdimensional Warp,Trap Card,Normal,N/A,N/A,N/A
+Alien,14729426,"Interplanetary Invader ""A""",Effect Monster,Reptile,LIGHT,0,500
+Alien,21768554,Mass Hypnosis,Trap Card,Continuous,N/A,N/A,N/A
+Alien,53291093,Mysterious Triangle,Spell Card,Quick-Play,N/A,N/A,N/A
+Alien,96875080,Orbital Bombardment,Trap Card,Normal,N/A,N/A,N/A
+Alien,60946968,"Otherworld - The ""A"" Zone",Spell Card,Field,N/A,N/A,N/A
+Alien,39163598,Planet Pollutant Virus,Trap Card,Normal,N/A,N/A,N/A
